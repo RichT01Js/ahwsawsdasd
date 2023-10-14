@@ -1,0 +1,62 @@
+[
+  {
+    "isim": "Ruby (Yakut)",
+    "açıklama": "Kırmızı değerli taşla dolu! (Yüksek değer çıkma oranı: %15)",
+    "fiyat": "10,000",
+    "kasaid": "001"
+  },
+  {
+    "isim": "Sapphire (Zümrüt)",
+    "açıklama": "Mavi taşların cazibesi! (Yüksek değer çıkma oranı: %21)",
+    "fiyat": "150,000",
+    "kasaid": "002"
+  },
+  {
+    "isim": "Diamond (Elmas)",
+    "açıklama": "Parlak elmaslar seni bekliyor! (Yüksek değer çıkma oranı: %27).",
+    "fiyat": "300,000",
+    "kasaid": "003"
+  },
+  {
+    "isim": "Topaz (Topaz)",
+    "açıklama": "Sarıdan turuncuya değişen renklerle Topaz! (Yüksek değer çıkma oranı: %33)",
+    "fiyat": "450,000",
+    "kasaid": "004"
+  },
+  {
+    "isim": "Quartz (Kuvars)",
+    "açıklama": "Kristal yapıya sahip Quartz! Değer: (Yüksek değer çıkma oranı: %39)",
+    "fiyat": "600,000",
+    "kasaid": "005"
+  },
+  {
+    "isim": "Amber (Kehribar)",
+    "açıklama": "Sarıdan kırmızıya renklerle Amber! Değer: (Yüksek değer çıkma oranı: %45)",
+    "fiyat": "750,000",
+    "kasaid": "006"
+  },
+  {
+    "isim": "Onyx (Oniks)",
+    "açıklama": "Siyah ve beyaz şeritli Onyx! Değer: (Yüksek değer çıkma oranı: %51)",
+    "fiyat": "900,000",
+    "kasaid": "007"
+  },
+  {
+    "isim": "Agate (Akik)",
+    "açıklama": "Çeşitli renklerdeki Akik! (Yüksek değer çıkma oranı: %57)",
+    "fiyat": "1,050,000",
+    "kasaid": "008"
+  },
+  {
+    "isim": "Jade (Yeşim)",
+    "açıklama": "Yeşil taşların sırrını keşfet! (Yüksek değer çıkma oranı: %63)",
+    "fiyat": "1,200,000",
+    "kasaid": "009"
+  },
+  {
+    "isim": "Opal (Opal)",
+    "açıklama": "Renkli iç yansımalarla büyülen Opal! (Yüksek değer çıkma oranı: %75)",
+    "fiyat": "1,350,000",
+    "kasaid": "010"
+  }
+]
